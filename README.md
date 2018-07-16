@@ -1,7 +1,7 @@
 # compliance-check-spec
 
 Write HTML specifications for AMF check suites generated from YAML files.
-[See an example here](example.html).
+[See an example here](https://rawgit.com/cedadev/compliance-check-spec/master/example.html).
 
 **Note:** This is a work in progress and has not been thoroughly tested.
 
