@@ -1,6 +1,7 @@
 # compliance-check-spec
 
 Write HTML specifications for AMF check suites generated from YAML files.
+[See an example here](example.html).
 
 **Note:** This is a work in progress and has not been thoroughly tested.
 
